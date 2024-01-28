@@ -1,0 +1,62 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Android studio
+.idea/
+.build/
+*.iml
+*.iws
+*.keystore
+
+# Backup, tmp and logs
+log/
+target/
+.~lock.*
+*.*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# virtual machine crash
+hs_err_pid*
+
+# netbeans and gradle
+/*/nb-configuration.xml
+/nbproject/
+/*/nbproject/
+/*/target/
+/*/build/
+/netbeans-gradle-default-models/gradle-api/
+.gradle/
+/.nb-gradle-properties
+.nb-gradle/
+
+# Directories left from old Ant project
+/build/
+/nbproject/private/
+
+#Algoid special
+/algoid/img/
+current.al
+/java/JavaExamples/nbproject/private/
+/java/JavaExamples/build/
+/java/POC_ByteBuddy/build/
+/java/CalculatorBCEL/build/
+/java/ByteCodeCalculator/build/
+/java/POC_ASM/build/
+/java/GaselLoader/build/
+
+# tp special
+*.class
+*.tasty
+
+# visual studio
+.history
